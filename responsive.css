@@ -1,9 +1,9 @@
-@media screen amd (min-width:768px) {
+@media screen and (min-width:768px) {
 .container{
   background: blue;
   }
 }
-@media screen amd (min-width:1000px) {
+@media screen and (min-width:1000px) {
 .container{
   background: red;
   }
